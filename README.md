@@ -2,15 +2,17 @@
 
 ---
 
-## 🔧 Projects
-- [**CoolApp**](https://github.com/yourusername/coolapp) – Mobile app with offline sync.
-- [**DevKit**](https://github.com/yourusername/devkit) – Toolkit for developers.
+## 📝 Blog
+
+- [How I built this site](https://yourusername.github.io/blog/how-i-built)
+- [Best GitHub Pages tips](https://yourusername.github.io/blog/github-pages-tips)
 
 ---
 
-## 📝 Blog
-- [How I built this site](https://yourusername.github.io/blog/how-i-built)
-- [Best GitHub Pages tips](https://yourusername.github.io/blog/github-pages-tips)
+## 🔧 Projects
+
+- [**CoolApp**](https://github.com/yourusername/coolapp) – Mobile app with offline sync.
+- [**DevKit**](https://github.com/yourusername/devkit) – Toolkit for developers.
 
 ---
 
@@ -20,3 +22,4 @@
 
 ---
 Made with ❤️ using [GitHub Pages](https://pages.github.com)
+
