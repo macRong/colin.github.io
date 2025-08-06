@@ -1,16 +1,22 @@
-# Welcome to My GitHub Pages
-
-![Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
-
-## 🚀 Projects
-- **[Project One](https://github.com/yourusername/project-one)** – A modern web app for productivity.
-- **[Project Two](https://github.com/yourusername/project-two)** – Open source CLI for developers.
-
-## 📖 Blog
-Sharing insights on **coding**, **AI**, and **life hacks**.
-
-## 🌱 About Me
-Passionate about building things that matter.
+# 🌟 Welcome to My GitHub Pages
 
 ---
-[Portfolio](https://yourusername.github.io) | [Contact](mailto:your@email.com)
+
+## 🔧 Projects
+- [**CoolApp**](https://github.com/yourusername/coolapp) – Mobile app with offline sync.
+- [**DevKit**](https://github.com/yourusername/devkit) – Toolkit for developers.
+
+---
+
+## 📝 Blog
+- [How I built this site](https://yourusername.github.io/blog/how-i-built)
+- [Best GitHub Pages tips](https://yourusername.github.io/blog/github-pages-tips)
+
+---
+
+## 📬 Contact
+- [Email](mailto:your@email.com)
+- [Twitter](https://twitter.com/yourhandle)
+
+---
+Made with ❤️ using [GitHub Pages](https://pages.github.com)
